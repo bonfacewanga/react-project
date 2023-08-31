@@ -1,0 +1,22 @@
+#images {
+  text-align: center;
+  width: 70px;
+  padding: 15px;
+
+}
+
+body {
+  text-align: center;
+  background-color: antiquewhite;
+  
+}
+.button {
+  border: solid 1px;
+  border-collapse: collapse;
+  padding: 10px;
+  font-size: larger;
+  position: absolute;top: 0;right: 0;
+  margin-right: 10px;
+  
+  
+}
